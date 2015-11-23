@@ -11,7 +11,7 @@ namespace WPFTiedonHallintaSovellus
     {
         static void Main(string[] args)
         {
-            
+            //Tähän toteutetaan tiedoston luku
             
             
             //Kysytään käyttäjältä uutta lämpötilaa ja tallentaan se tiedostoon
